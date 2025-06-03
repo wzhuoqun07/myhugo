@@ -1,37 +1,66 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Your Site Title</title>
+    <title>Zhuoqun Wang on my resume</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Your Site Title</description>
+    <description>Recent content in Zhuoqun Wang on my resume</description>
     <generator>Hugo -- 0.147.7</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 02 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello World</title>
-      <link>http://localhost:1313/posts/hello-world/</link>
-      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description>&lt;h1 id=&#34;一级标题&#34;&gt;一级标题&lt;/h1&gt;
-&lt;h2 id=&#34;二级标题&#34;&gt;二级标题&lt;/h2&gt;
-&lt;p&gt;欢迎来到我的 Hugo 网站。&lt;strong&gt;这是加粗文本&lt;/strong&gt;，&lt;em&gt;这是斜体文本&lt;/em&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;可爱的猫&#34; loading=&#34;lazy&#34; src=&#34;../../static/images/myphoto.jpg&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/yourusername&#34;&gt;点击这里访问我的 GitHub&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
+      <title>Life Between Code and Coffee ☕💻</title>
       <link>http://localhost:1313/posts/post1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/post1/</guid>
-      <description></description>
+      <description>&lt;h1 id=&#34;life-between-code-and-coffee-&#34;&gt;Life Between Code and Coffee ☕💻&lt;/h1&gt;
+&lt;p&gt;When people hear you&amp;rsquo;re a computer science student, they often imagine you glued to a screen 24/7, living on energy drinks and debugging cryptic errors. And okay — sometimes that’s accurate. But there’s more to the story.&lt;/p&gt;
+&lt;h2 id=&#34;-mornings-are-sacred&#34;&gt;☀️ Mornings Are Sacred&lt;/h2&gt;
+&lt;p&gt;I’m not a morning person by nature, but over time, I’ve grown to appreciate the calm that comes before the day begins. There’s something peaceful about the early light filtering through my window while the kettle boils. My go-to ritual? A cup of pour-over coffee, brewed slowly, no distractions.&lt;/p&gt;</description>
     </item>
     <item>
-      <title></title>
-      <link>http://localhost:1313/posts/post2/</link>
+      <title>Research in Multimodal Medical AI</title>
+      <link>http://localhost:1313/posts/research-nlp/</link>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/research-nlp/</guid>
+      <description>&lt;h1 id=&#34;research-in-multimodal-medical-ai&#34;&gt;Research in Multimodal Medical AI&lt;/h1&gt;
+&lt;p&gt;Since March 2024, I&amp;rsquo;ve been working as a research assistant at &lt;strong&gt;Northwestern University&lt;/strong&gt;, contributing to an ambitious project in the field of &lt;strong&gt;multimodal AI for medicine&lt;/strong&gt;. Our goal is to develop a &lt;strong&gt;tri-modal deep learning system&lt;/strong&gt; that can integrate and analyze:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Medical imaging&lt;/strong&gt; (e.g., MRI, CT scans)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;DNA sequences&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Natural language&lt;/strong&gt; data from clinical reports&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-my-focus-robust-dna-sequence-processing&#34;&gt;🔍 My Focus: Robust DNA Sequence Processing&lt;/h2&gt;
+&lt;p&gt;My specific area of focus is improving how the model handles &lt;strong&gt;DNA sequences&lt;/strong&gt;, which pose unique challenges compared to images or text due to their structure and encoding ambiguity.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Internship: LLM Development in Beijing</title>
+      <link>http://localhost:1313/posts/internship-llm/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/internship-llm/</guid>
+      <description>&lt;h1 id=&#34;internship-at-zgcworld-building-language-models-from-the-ground-up&#34;&gt;Internship at ZGCWORLD: Building Language Models from the Ground Up&lt;/h1&gt;
+&lt;p&gt;From March to July 2024, I worked as an &lt;strong&gt;Intern Developer at ZGCWORLD&lt;/strong&gt;, a fast-moving startup in Beijing focused on developing cutting-edge &lt;strong&gt;large language models (LLMs)&lt;/strong&gt; for enterprise use.&lt;/p&gt;
+&lt;h2 id=&#34;-project-overview&#34;&gt;🚀 Project Overview&lt;/h2&gt;
+&lt;p&gt;During the internship, I contributed to the company’s in-house LLM training and fine-tuning pipeline. Our team was focused on customizing and scaling transformer-based models for Chinese text understanding and dialogue applications.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/post2/</guid>
-      <description></description>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;
+&lt;h2 id=&#34;-education&#34;&gt;🎓 Education&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Northwestern University&lt;/strong&gt;, Evanston, USA&lt;br&gt;
+MS in Computer Science, Sep 2024 – Present&lt;br&gt;
+Courses: Deep Learning, Advanced Deep Learning, Online Market, Deep Learning for NLP, Distribution System&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Virginia Tech&lt;/strong&gt;, Blacksburg, USA&lt;br&gt;
+BS in Computer Science, Jan 2020 – Dec 2024&lt;br&gt;
+GPA: 3.86 / 4.00&lt;br&gt;
+Courses: Data Analytics and Visualization, Data Structure, System Organization, Statistics, Machine Learning, Comparative Languages&lt;/p&gt;
+&lt;h2 id=&#34;-research-experience&#34;&gt;🧪 Research Experience&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Northwestern University&lt;/strong&gt;&lt;br&gt;
+Research Assistant to PhD Weimin Wu&lt;br&gt;
+Mar 2024 – Present&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
