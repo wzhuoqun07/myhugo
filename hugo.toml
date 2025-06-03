@@ -12,3 +12,8 @@ theme = "PaperMod"
     identifier = "about"
     name = "About"
     url = "/about/"
+
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
