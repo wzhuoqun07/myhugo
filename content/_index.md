@@ -10,4 +10,6 @@ Phone: +1 (540) 875-3029
 
 Welcome to my personal website. I'm currently pursuing my Master's degree in Computer Science at Northwestern University. This site provides an overview of my education, experience, and interests in research and software development.
 
+![my photo](../static/images/myphoto.jpg)
+
 [View my resume](about)
